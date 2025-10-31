@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "570504870427",
+    "project_id": "aldiron-app",
+    "storage_bucket": "aldiron-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:570504870427:android:cad32f9b354027467ad6be",
+        "android_client_info": {
+          "package_name": "com.umalo.app.dev"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0OEwG1fbTSRH8Ms5GVYRByZS8VhG0ftE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
